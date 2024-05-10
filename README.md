@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil do Bruno Penna 😁
-
+## Bem-vindo(a) ao perfil do Bruno Penna 👨🏼‍💻
  <div>
    <a href="https://github.com/   <a href="https://github.com/brunopenna87">">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunopenna87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
