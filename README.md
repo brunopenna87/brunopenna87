@@ -1,29 +1,18 @@
-## Bem-vindo(a) ao perfil do Bruno Penna 👨🏼‍💻
+# Olá, sou o Bruno Penna! 👋
 
-<div align="center">
-  <h3>Minhas Linguagens e Projetos</h3>
-  <a href="https://github.com/brunopenna87">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopenna87&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Langs" />
-  </a>
-</div>
+Seja bem-vindo ao meu espaço. Aqui compartilho meus projetos e estudos em programação.
 
-<br>
+---
 
-<div align="center">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 🛠️ Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
+---
 
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### 📫 Vamos conectar?
+Clique nos botões abaixo para falar comigo:
 
-<div align="left">
-  <a href="mailto:bcpennaecosta@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-cesare-penna-e-costa-77951a6a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcpennaecosta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-cesare-penna-e-costa-77951a6a/)
