@@ -4,6 +4,11 @@ Seja bem-vindo ao meu espaço. Aqui compartilho meus projetos e estudos em progr
 
 ---
 
+### 📊 Linguagens mais utilizadas
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunopenna87&theme=tokyonight)
+
+<br>
+
 ### 🛠️ Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
