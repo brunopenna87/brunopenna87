@@ -2,7 +2,9 @@
 
 <div align="center">
   <h3>Minhas Linguagens e Projetos</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopenna87&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/brunopenna87">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopenna87&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Langs" />
+  </a>
 </div>
 
 <br>
